@@ -1,3 +1,8 @@
+# ARCHIEVE REASON
+It seems that `ffmpeg` goes wrong with frame-rate when converting mkv to mov (23.98 to 23.81).
+
+Check [GitHub | mkv2mp4_fcp](https://github.com/Yang-Xijie/mkv2mp4_fcp) instead.
+
 # mkv2mov
 Convert anime to import in FCP.
 
